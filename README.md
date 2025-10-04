@@ -24,7 +24,8 @@ cd BlackSYNReaper
 Verify .NET is installed:dotnet --version
 
 
-Run the tool:dotnet run
+Run the tool:
+dotnet run
 
 
 
